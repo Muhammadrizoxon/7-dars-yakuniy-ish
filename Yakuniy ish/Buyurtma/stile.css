@@ -1,0 +1,44 @@
+table {
+  background-image: -moz-radial-gradient(yellow, blue);
+}
+
+.GO {
+  width: 95%;
+  height: 25px;
+  margin-left: 6px;
+  border-radius: 5px;
+}
+.HI p {
+  color: orange;
+  margin: 5px;
+  font-size: small;
+}
+.Lets img {
+  width: 20px;
+  padding-left: 80px;
+}
+.Lets h4 {
+  margin: auto;
+  font-size: small;
+}
+.hoho input {
+  width: 100%;
+}
+.haha input {
+  width: 100%;
+}
+.hihi input {
+  width: 75%;
+}
+.hihi img {
+  padding-left: 10px;
+}
+.hringhring input {
+  width: 75%;
+}
+.hringhring img {
+  padding-left: 10px;
+}
+.horosho input {
+
+}

@@ -1,0 +1,35 @@
+body {
+  background-color: whitesmoke;
+}
+div {
+  margin-left: 250px;
+  margin-right: 250px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+span {
+  color: grey;
+  padding-left: 10px;
+}
+h3 {
+  display: inline-block;
+}
+p {
+  padding-left: 10px;
+}
+input {
+  background-color: black;
+  color: white;
+  margin-left: 620px;
+}
+hr {
+  color: aqua;
+  width: 200px;
+  height: 15px;
+  border-width: 10px;
+  border-style: dashed none none none;
+}
+a{
+  margin-left: 260px;
+}

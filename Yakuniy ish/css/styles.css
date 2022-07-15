@@ -1,0 +1,83 @@
+/* ORIGINAL */
+table tr td {
+  display: inline-block;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+/* CLASS */
+.rasmlar td {
+  position: relative;
+}
+.rasmlar td h3 {
+  position: absolute;
+  bottom: 2px;
+  left: 20px;
+  color: white;
+}
+.message {
+  color: #a4acad;
+  width: 330px;
+  margin: 100px auto;
+  position: relative;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+}
+.curtain {
+  background: linear-gradient(#f2f2f200, #f2f2f2);
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  top: 205%;
+  left: 0;
+}
+.frame table tr td:nth-child(2) p{
+color: orangered;
+margin: 0px;
+width: 130px;
+}
+.frame table:nth-child(1) tr td:nth-child(3){
+  width: 100px;
+}
+/* ID */
+#bishkek tr:nth-child(2)  td:nth-child(1){
+margin: 0px;
+}
+#bishkek tr:nth-child(3) td:nth-child(1){
+  margin-left: 100px;
+  color: #F46D40;
+}
+#bishkek tr:nth-child(1) td h2{
+  color: grey;
+}
+#bishkek tr:nth-child(4) td{
+  margin-left: 70px;
+  color: grey;
+}
+#bishkek tr:nth-child(4) td p{
+  margin-left: 20px;
+}
+#bishkek tr:nth-child(5) td:nth-child(2){
+  padding-left: 30px;
+}
+#bishkek tr:nth-child(5) td:nth-child(1){
+  padding-left: 20px;
+}
+#bishkek tr:nth-child(5) td:nth-child(3){
+  padding-left: 20px;
+}
+#bishkek tr:nth-child(6) td{
+  color: grey;
+}
+#bishkek tr:nth-child(7) td{
+  color: grey;
+}
+#bishkek tr:nth-child(8) td{
+  color: grey;
+}
+.daftar tr td{
+margin-right: 15px;
+margin-left: 30px;
+}
